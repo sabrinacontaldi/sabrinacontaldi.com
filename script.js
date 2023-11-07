@@ -17,3 +17,18 @@ git.addEventListener("click", function(){
 	navlist.classList.toggle("open");
 
 });
+
+// var content = document.getElementsByClassName("model1");
+// var button = document.getElementById("show-more");
+
+// button.onclick = function(){
+//     for (i = 0; i < content.length; ++i) {      
+//       if(content[i].className == "model1 open"){
+//         content[i].className = "model1";
+//         button.innerHTML = "More";
+//     } else {
+//         content[i].className = "model1 open";
+//         button.innerHTML = "Less";
+//     }  
+//   }
+// };
