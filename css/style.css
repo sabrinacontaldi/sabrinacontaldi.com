@@ -597,7 +597,7 @@ footer p:nth-child(2){
 	.about-text h5{
 		text-align: center;
 	}
-	.about-text .{
+	.about-text {
 		align-content: center;
 	}
 
